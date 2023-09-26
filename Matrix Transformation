@@ -1,0 +1,4 @@
+import numpy as np
+x=np.array([[1,2],[3,4]])
+print("original x:\n%s"%x)
+print("\n Transpose of x:\n%s"%x.T)
